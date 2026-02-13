@@ -62,7 +62,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect 
 
 🔗 https://www.linkedin.com/in/girishksahu
 
