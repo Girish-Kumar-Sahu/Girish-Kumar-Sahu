@@ -55,8 +55,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Girish-Kumar-Sahu\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Girish-Kumar-Sahu\&layout=compact)
+![Girish's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Girish-Kumar-Sahu\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girish-Kumar-Sahu\&theme=tokyonight)
+
 
 ---
 
