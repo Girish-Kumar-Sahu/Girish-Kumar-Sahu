@@ -33,11 +33,10 @@
 
 ### 🧰 Frameworks & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge\&logo=flask\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
 
 
 ### 📚 Core Concepts
